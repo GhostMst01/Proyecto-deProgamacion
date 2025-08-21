@@ -1,3 +1,4 @@
+Quito, 21/Agosto/2025
 Atari Pong en Pygame
 Una recreación del clásico videojuego Pong, desarrollado en Python con la biblioteca Pygame. Este proyecto fue creado para aprender sobre la lógica de los videojuegos, el manejo de eventos y las colisiones.
 
